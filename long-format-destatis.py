@@ -28,6 +28,11 @@ df_long['rolling_mean_6'] = (
     .transform(lambda x: x.shift(1).rolling(6).mean())
 )
 
+start = pd.Timestamp('2020-01-01')
+df_long['Datum'] = df_long['Monat_Nr'].apply(
+    lambda x: start + pd.DateOffset(months=int(x) - 1) if pd.notna(x) else pd.NaT
+)
+
 # Kein dropna() – NaN bleibt erhalten
 df_features = df_long.copy()
 df_features.to_csv('data_processed/features_destatis.csv', index=False)
