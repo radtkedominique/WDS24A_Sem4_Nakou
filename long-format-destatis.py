@@ -36,3 +36,16 @@ df_long['Datum'] = df_long['Monat_Nr'].apply(
 # Kein dropna() – NaN bleibt erhalten
 df_features = df_long.copy()
 df_features.to_csv('data_processed/features_destatis.csv', index=False)
+
+df_statistik = df_long[['COICOP-Index', 'Produkt', 'Datum', 'Monat_Nr', 'Preisindex']].copy()
+df_statistik.to_csv('data_processed/destatis_statistik.csv', index=False)
+stats = df_long.groupby('Produkt')['Preisindex'].agg(
+    Mittelwert='mean',
+    Median='median',
+    Std='std',
+    Min='min',
+    Max='max',
+    Anzahl_Monate='count'
+).reset_index()
+
+stats.to_csv('data_processed/destatis_deskriptiv.csv', index=False)
