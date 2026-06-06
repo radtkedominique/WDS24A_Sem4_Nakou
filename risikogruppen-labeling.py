@@ -48,3 +48,4 @@ df_features = df_features.merge(
 )
 df_features.to_csv('data_processed/features_destatis.csv', index=False)
 print("Fertig.")
+
