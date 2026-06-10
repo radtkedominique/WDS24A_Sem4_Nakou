@@ -1,0 +1,169 @@
+Produkt,Kategorie,Risikogruppe,r_cpi_niveau,r_cpi_mom
+"Scholle, Forelle oder Karpfen, frisch oder gekühlt",Fisch & Meeresfrüchte,mittel,0.9948021457021347,0.2927727270355869
+Erbsenkonserve,Gemüse & Gemüsekonserven,hoch,0.9930849450997865,0.31445016318882
+Frisches Brötchen,Getreide & Backwaren,mittel,0.9924401388052494,0.15848250961909785
+Fischmarinade,Fisch & Meeresfrüchte,mittel,0.9915147338032543,0.22672686478330392
+Weißbrot,Getreide & Backwaren,mittel,0.9909587919163673,0.4176889089684431
+Roggenbrot oder Mischbrot,Getreide & Backwaren,mittel,0.9897933622137242,0.40036213403997
+Hefegebäck,Getreide & Backwaren,mittel,0.9897506181158703,0.23230933223919506
+Kalbfleisch,Fleisch & Wurst,stabil,0.9889468785979216,0.1804215344563442
+Fertignahrung für Säuglinge oder Kleinkinder,Sonstige Nahrungsmittel,mittel,0.9887798506201283,-0.11474393512250136
+"Säuglingsmilchnahrung, Pulverform",Sonstige Nahrungsmittel,stabil,0.9879902848037664,0.22883874988063538
+"Eingelegte Matjes, Fischsalat oder Ähnliches",Fisch & Meeresfrüchte,mittel,0.986402564840264,0.3699546590110558
+Brötchen zum Fertigbacken,Getreide & Backwaren,hoch,0.9863868482755268,0.2734334901986577
+Feinkostsalat auf Fleischbasis,Fleisch & Wurst,hoch,0.985138998694076,0.16289652492975015
+Leber oder andere Innereien,Fleisch & Wurst,stabil,0.9849658277263383,0.19837147434723038
+"Fleischfertiggericht ohne Beilage, konserviert",Fleisch & Wurst,stabil,0.984813867836148,0.3272677404706099
+"Kuchen oder Torte, tiefgefroren",Getreide & Backwaren,hoch,0.983233269598383,0.33214978210075574
+Bratwurst,Fleisch & Wurst,mittel,0.9829644365887141,0.04041397993885555
+Körnerbrot oder Vollkornbrot,Getreide & Backwaren,mittel,0.9825232923004226,0.18538495207949152
+Trockengemüse,Gemüse & Gemüsekonserven,stabil,0.9814476354815926,0.3673223438139492
+"Kuchen, Torte oder Tortenboden, frisch",Getreide & Backwaren,mittel,0.9812386370081142,0.2950572296689895
+"Tiefgefrorenes, tafelfertig zubereitetes Fleisch",Fleisch & Wurst,hoch,0.9809068409295267,0.2870392634639396
+"Roher Schinken, Schinkenspeck oder Bauchspeck",Fleisch & Wurst,stabil,0.9807467369401394,0.11224753499392397
+Rindfleisch zum Schmoren oder Braten,Fleisch & Wurst,hoch,0.9806451727392652,0.3134233357641937
+"Kabeljau oder Lachs, frisch oder gekühlt",Fisch & Meeresfrüchte,stabil,0.9802978231931482,0.41169716208502416
+"Fischfilet, frisch oder gekühlt",Fisch & Meeresfrüchte,mittel,0.9801563871795979,0.19376724347712315
+"Meeresfrüchte, frisch oder gekühlt",Fisch & Meeresfrüchte,stabil,0.9800855983519955,0.0014886436425097123
+Dosensuppe,Sonstige Nahrungsmittel,hoch,0.9795777513253738,0.0508219294523947
+Gurkenkonserve,Gemüse & Gemüsekonserven,hoch,0.9795030716595553,0.17835196129746939
+Weichkäse,Milch & Milchgetränke,hoch,0.979482981498546,0.24307142716974015
+Rinderroulade oder Rinderlende,Fleisch & Wurst,mittel,0.9790365879250376,0.3862979773352832
+Schweinebraten,Fleisch & Wurst,mittel,0.9783254816902798,0.264742536842083
+Eier,Milch & Milchgetränke,hoch,0.9781774286115686,0.17132584429474007
+Reiszubereitung,Getreide & Backwaren,mittel,0.9781599496287576,0.1017170645448521
+Zubereitetes Hackfleisch,Fleisch & Wurst,hoch,0.9767770716648688,0.304723303952846
+Tiefgefrorenes Geflügelfleisch,Fleisch & Wurst,hoch,0.9760966502946378,0.19056395570470536
+Senf,Sonstige Nahrungsmittel,hoch,0.9750341141840028,0.24830010586688506
+Mineralwasser ohne Kohlensäure,Säfte & Softdrinks,stabil,0.975026881033583,0.025860614565676628
+Fertiggericht aus Fleisch oder Fisch,Sonstige Nahrungsmittel,stabil,0.9748592547619526,0.09733131091537447
+Rindfleisch zum Kochen,Fleisch & Wurst,hoch,0.9747572559425433,0.12040148271923384
+Reis,Getreide & Backwaren,mittel,0.9744604189681164,0.14077432278113242
+Leberwurst oder Blutwurst,Fleisch & Wurst,mittel,0.9742118692328363,0.19960215447993698
+Schmalz oder anderes tierisches Speisefett,Öle & Fette,hoch,0.9738628472216962,0.09341085791981985
+Gemüsesaft,Säfte & Softdrinks,mittel,0.9735695788851662,0.4153661697055003
+Pilzkonserve,Gemüse & Gemüsekonserven,mittel,0.9731680163706016,0.2146645363734235
+Mineralwasser mit Kohlensäure,Säfte & Softdrinks,stabil,0.972873979209987,0.13923626541307632
+Kondensierte Milch,Milch & Milchgetränke,hoch,0.9726611473986294,0.28717839296117287
+"Vitamintabletten, Magnesiumtabletten o.Ä.",Sonstige Nahrungsmittel,stabil,0.9722973730540401,0.2892313256729335
+Gyros oder andere fertige Fleischpfanne,Fleisch & Wurst,mittel,0.9721004736100508,0.16202144046996464
+Kartoffelchips oder Kartoffelsticks,Gemüse & Gemüsekonserven,hoch,0.9720923636969961,0.288062171295698
+Essig,Sonstige Nahrungsmittel,mittel,0.972089612282586,0.3268394661725396
+Champignons oder andere Pilze,Gemüse & Gemüsekonserven,stabil,0.971976945857555,0.09002011939661198
+Knäckebrot oder Zwieback,Getreide & Backwaren,hoch,0.97056702389116,0.2283178498391452
+Mayonnaise,Sonstige Nahrungsmittel,hoch,0.9700118119958048,0.3813651365948689
+"Tortenguss, Gelatine oder Ähnliches",Sonstige Nahrungsmittel,stabil,0.9699344637892531,-0.04247422756943892
+Fischkonserve,Fisch & Meeresfrüchte,mittel,0.9698532017240679,0.14084167684845178
+Speisesalz,Sonstige Nahrungsmittel,stabil,0.9698426282118219,0.21924655418681976
+Schweinekotelett oder Schweineschnitzel,Fleisch & Wurst,mittel,0.9695450442783337,0.20653480366174912
+Apfelmus oder andere Kernobstkonserve,Obst & Obstkonserven,hoch,0.9689872261002644,0.26469657296966315
+"Muffins, Waffeln oder andere Dauerbackwaren",Getreide & Backwaren,mittel,0.9689488154551272,0.41851926831913266
+Fertigdessert,Milch & Milchgetränke,mittel,0.9689027704056544,0.3938178697122325
+"Schweinehackfleisch, auch gemischt",Fleisch & Wurst,hoch,0.9674247911987478,0.2136144911151601
+Haferflocken,Getreide & Backwaren,mittel,0.9668992331250541,0.367222702441866
+Sauerkrautkonserve,Gemüse & Gemüsekonserven,hoch,0.9663810985047251,0.03277353583992059
+"Grillsoße, Sojasoße, Salatdressing oder Ähnliches",Sonstige Nahrungsmittel,hoch,0.9662228853278599,0.2721788522612948
+Kaffeepads oder Kaffeekapseln,"Kaffee, Tee & Kakao",mittel,0.9661557683038109,0.13096174707562788
+Tiefgefrorener Spinat,Gemüse & Gemüsekonserven,hoch,0.9657804852239235,0.1452642554855938
+Wurstkonserve,Fleisch & Wurst,hoch,0.9652874867867526,0.18212416307044918
+Buttergemüse oder anderes tiefgefrorenes Gemüse,Gemüse & Gemüsekonserven,hoch,0.9642645246645204,0.04101267625087922
+Bonbons,Zucker & Süßwaren,stabil,0.9637967900235084,0.28926007992156455
+"Soßenpulver, Soßenbinder oder Ähnliches",Sonstige Nahrungsmittel,mittel,0.963569374954649,0.2439212065774712
+Kasseler oder anderes Schweinefleisch,Fleisch & Wurst,stabil,0.963553032681704,0.17290477245550542
+"Salami, Zervelatwurst oder andere Dauerwurst",Fleisch & Wurst,stabil,0.963185190786934,0.1909720339840549
+Gewürze,Sonstige Nahrungsmittel,stabil,0.9627154235825848,0.3360107100978049
+"Pizza, Quiches oder Ähnliches",Getreide & Backwaren,mittel,0.9626010066110354,0.33818653513509445
+Gekochter Schinken oder anderes gegartes Fleisch,Fleisch & Wurst,stabil,0.9624386665201163,0.08442376012714156
+Colagetränk,Säfte & Softdrinks,mittel,0.9620951929780784,0.22325609275678276
+Frischkäse,Milch & Milchgetränke,mittel,0.9616525163858595,0.29743024144650754
+Sportriegel,Sonstige Nahrungsmittel,stabil,0.9606894789002485,0.051591850846973875
+Räucherfisch,Fisch & Meeresfrüchte,stabil,0.9604330735139113,0.30373686821121315
+Nudelfertiggericht,Getreide & Backwaren,hoch,0.9603960087218234,0.09899315977196341
+Joghurt,Milch & Milchgetränke,mittel,0.9602595014081191,0.20199341289053677
+"Cornflakes, Müsli oder Ähnliches",Getreide & Backwaren,stabil,0.960025229547326,0.31094140382434926
+Rinderhackfleisch,Fleisch & Wurst,hoch,0.9597659225397964,0.22377962946954003
+Kaninchenfleisch oder anderes Wildfleisch,Fleisch & Wurst,stabil,0.9594843518007666,0.10518056077462486
+Speiseeis,Zucker & Süßwaren,stabil,0.95889201787945,0.1655928067170793
+Verzehrfertige Salate,Sonstige Nahrungsmittel,stabil,0.958808123621927,0.13427739380854556
+Brotaufstrich auf Nougatbasis,Zucker & Süßwaren,mittel,0.9585436762297923,0.12398519480612433
+Fleischwurst,Fleisch & Wurst,stabil,0.9583576920898162,0.1321088999950786
+Nudeln,Getreide & Backwaren,mittel,0.9580774884621678,0.3059255610986795
+"Backpulver, Vanillezucker oder Ähnliches",Sonstige Nahrungsmittel,hoch,0.9571566951395659,0.21161294659824242
+Hartkäse,Milch & Milchgetränke,mittel,0.957041505237144,0.07140130080507973
+"Marmelade, Konfitüre oder Gelee",Zucker & Süßwaren,mittel,0.9570084922968833,0.1881845231012254
+Salzgebäck,Getreide & Backwaren,mittel,0.9569850361058081,0.18334578632757995
+Instantkaffee oder Ähnliches,"Kaffee, Tee & Kakao",stabil,0.9560595710241783,0.2350731284623863
+Koffeinfreie Limonade,Säfte & Softdrinks,mittel,0.9551475123505705,0.23903790813406295
+Kekse,Getreide & Backwaren,hoch,0.9541973725045105,0.2013687790833282
+Margarine oder Pflanzenfett,Öle & Fette,hoch,0.9537053929311208,0.3767160182954564
+Früchtetee oder Kräutertee,"Kaffee, Tee & Kakao",stabil,0.952793186654079,0.0689456717772545
+Schwarzer Tee oder grüner Tee,"Kaffee, Tee & Kakao",stabil,0.9512860961784164,0.02485294647943847
+Quark,Milch & Milchgetränke,hoch,0.9509909928701873,0.13644338567444683
+"Erdnüsse, Studentenfutter oder Ähnliches",Obst & Obstkonserven,mittel,0.9509639626131318,0.2622819133789045
+"Ananaskonserve, Erdbeerkonserve oder Ähnliches",Obst & Obstkonserven,hoch,0.9502917350593256,0.25546475660997037
+Wurstaufschnitt,Fleisch & Wurst,stabil,0.9490760729609571,0.05598993073030033
+Tiefgefrorene Küchenkräuter,Sonstige Nahrungsmittel,stabil,0.9488299047269528,0.05234362602319542
+Stangenspargel oder andere Gemüsekonserve,Gemüse & Gemüsekonserven,hoch,0.9485809974950616,0.4417992923314526
+"Pommes frites oder Ähnliches, tiefgefroren",Gemüse & Gemüsekonserven,mittel,0.9485787023502094,0.1751684985116582
+Schnittkäse,Milch & Milchgetränke,hoch,0.9485140823394095,0.09687809223305184
+Puddingpulver,Sonstige Nahrungsmittel,stabil,0.9483513993840772,0.2429383329229574
+Buttermilch oder anderes Milchgetränk,Milch & Milchgetränke,hoch,0.9475972540098486,0.18354785674139906
+"Grieß, Roggenmehl oder Ähnliches",Getreide & Backwaren,hoch,0.9467636997835682,0.14923296497524174
+Backmischung für Kuchen,Getreide & Backwaren,mittel,0.9464104265638585,0.08511887078016343
+Kartoffelkloßmehl oder Kartoffelpüree,Gemüse & Gemüsekonserven,mittel,0.9461395991262941,-0.0160356073362105
+"Getreideprodukt, vegetarisch oder vegan",Getreide & Backwaren,stabil,0.9450389963953432,0.14133502149612487
+Tiefgefrorenes Fischfilet,Fisch & Meeresfrüchte,stabil,0.9440462747717767,0.29148415184401844
+"Antipasti auf Gemüsebasis, ohne Oliven",Gemüse & Gemüsekonserven,stabil,0.9426075917978894,0.1866958812836826
+Sahne,Milch & Milchgetränke,hoch,0.9418305011639456,0.18527224092019318
+Sauerkirschen oder andere Steinobstkonserve,Obst & Obstkonserven,mittel,0.9407306937509137,-0.22286103924898695
+Fertigsuppe im Beutel oder Instantbrühe,Sonstige Nahrungsmittel,stabil,0.9403911833598996,-0.017908663330226456
+Tomatenketchup oder Gewürzketchup,Sonstige Nahrungsmittel,hoch,0.9402680280476513,0.31785591456521467
+Frisches Geflügelfleisch,Fleisch & Wurst,hoch,0.9393329745295556,0.22208288074921273
+Lammfleisch,Fleisch & Wurst,stabil,0.938679203717326,0.4064167325002039
+Riegel oder andere Erzeugnisse aus Schokolade,Zucker & Süßwaren,hoch,0.9378132730764304,0.20589935178205743
+"Kaugummi, Gummibärchen oder Ähnliches",Zucker & Süßwaren,mittel,0.9357768425064911,0.1580523944136371
+Teilentrahmte Milch,Milch & Milchgetränke,hoch,0.9335154293774843,0.24602971949037253
+"Gemüseprodukt, vegetarisch oder vegan",Gemüse & Gemüsekonserven,stabil,0.9316483046650766,0.07649779672823243
+Toastbrot,Getreide & Backwaren,mittel,0.9311027916626746,0.1770384275752172
+Bananen,Obst & Obstkonserven,stabil,0.9300323269593656,0.1956039004630461
+Apfelsaft oder ähnlicher Fruchtsaft,Säfte & Softdrinks,hoch,0.927698092476591,0.17584784819882332
+Fischstäbchen o.a. tiefgefrorene Fischzubereitung,Fisch & Meeresfrüchte,mittel,0.9274692476333479,0.25025260819527695
+Bohnenkaffee,"Kaffee, Tee & Kakao",hoch,0.9270612013959413,0.22903531823285456
+"Sandwich, Wrap oder Ähnliches",Sonstige Nahrungsmittel,stabil,0.9237015173986809,-0.14665745105899206
+Kakaopulver oder Ähnliches,"Kaffee, Tee & Kakao",hoch,0.9170810970740056,0.18883537409583728
+Weizenmehl,Getreide & Backwaren,hoch,0.9149036362796055,0.11544384142409242
+Vollmilch,Milch & Milchgetränke,mittel,0.9107374061206202,0.21512391086371574
+Trockenobst,Obst & Obstkonserven,mittel,0.9104666854172846,0.11473072043493404
+Tiefgefrorene Meeresfrüchte,Fisch & Meeresfrüchte,stabil,0.9079167759990368,0.28746575392164864
+Multivitaminsaft,Säfte & Softdrinks,hoch,0.906174561275792,0.20931560617540335
+Orangensaft oder ähnlicher Fruchtsaft,Säfte & Softdrinks,hoch,0.8862862835863023,0.028299241898815067
+"Feldsalat, Lauch, Sellerie oder Ähnliches",Gemüse & Gemüsekonserven,mittel,0.8828657030187983,0.15422994071341878
+"Kiwis, Melonen oder Ähnliches",Obst & Obstkonserven,stabil,0.8788658854912813,0.23831364586689127
+Pralinen,Zucker & Süßwaren,mittel,0.8781516486726609,0.12916114561660658
+Olivenöl,Öle & Fette,hoch,0.8776791743575282,0.059108458047231444
+Schokoladentafel,Zucker & Süßwaren,hoch,0.8573815207988699,0.21529727354622707
+Honig,Zucker & Süßwaren,stabil,0.845612375096074,0.14076485646337453
+"Sojamilch, Reismilch o.Ä., ohne Kokosmilch",Milch & Milchgetränke,stabil,0.843167620309405,0.14134170082851058
+"Erdbeeren, Himbeeren, Stachelbeeren oder Ähnliches",Obst & Obstkonserven,mittel,0.8309253781656418,0.03817013436282613
+Tiefgefrorenes Obst,Obst & Obstkonserven,stabil,0.821743475757403,0.26214536797468235
+"Blumenkohl, Wirsing oder anderer Kohl",Gemüse & Gemüsekonserven,mittel,0.8193459522762503,-0.03545173076285501
+Energy-Drinks,Säfte & Softdrinks,stabil,0.8046610048806235,0.04163631354845367
+Zucker,Zucker & Süßwaren,mittel,0.8003756720741625,0.06660903144946424
+Kartoffeln,Gemüse & Gemüsekonserven,hoch,0.7959498978193175,0.09510418135962323
+"Süße Mandeln, Kokosraspeln oder Ähnliches",Obst & Obstkonserven,stabil,0.7922423680162487,-0.0979854140340521
+Süßstoff,Zucker & Süßwaren,stabil,0.7817207782365739,0.11734478169701293
+"Hülsenfrüchte, Spargel, Radieschen oder Ähnliches",Gemüse & Gemüsekonserven,mittel,0.7541740345874417,0.004614718087932042
+"Sonnenblumenöl, Rapsöl oder Ähnliches",Öle & Fette,hoch,0.7513418277945475,0.21232592159827857
+"Zwiebeln, Knoblauch oder Ähnliches",Gemüse & Gemüsekonserven,hoch,0.7469532805809102,0.023626162069645552
+Butter,Öle & Fette,hoch,0.7206116498393202,-0.09863741391837048
+Birnen,Obst & Obstkonserven,stabil,0.6636818370666836,-0.12879367895781063
+Äpfel,Obst & Obstkonserven,mittel,0.6543353650018138,-0.14115659427014296
+Zitrusfrüchte,Obst & Obstkonserven,hoch,0.5988303857054064,0.13852880765905898
+Möhren,Gemüse & Gemüsekonserven,hoch,0.5800779172062859,0.0959740512989719
+Paprika,Gemüse & Gemüsekonserven,hoch,0.5508128702101828,0.20177096602772154
+Weintrauben,Obst & Obstkonserven,stabil,0.49493701679390817,-0.20827944560952671
+"Pfirsiche, Kirschen o.a. Stein- oder Kernobst",Obst & Obstkonserven,stabil,0.4246222789256854,0.019551340965142244
+Kopfsalat oder Eisbergsalat,Gemüse & Gemüsekonserven,stabil,0.4238023339502841,0.052981736287304904
+"Kürbisse, Auberginen oder Mais",Gemüse & Gemüsekonserven,stabil,0.32642587963302994,-0.09427455378884002
+Gurken,Gemüse & Gemüsekonserven,stabil,0.3235476635553414,-0.10216032009851056
+Tomaten,Gemüse & Gemüsekonserven,stabil,0.279319501066302,0.11022751034703328

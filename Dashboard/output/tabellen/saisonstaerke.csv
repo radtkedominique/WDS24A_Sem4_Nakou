@@ -1,0 +1,169 @@
+Produkt,saisonstaerke,trendstaerke,Kategorie
+"Pfirsiche, Kirschen o.a. Stein- oder Kernobst",0.9133166892817681,0.7883111218105492,Obst & Obstkonserven
+"Hülsenfrüchte, Spargel, Radieschen oder Ähnliches",0.9028079304070361,0.9411964347404058,Gemüse & Gemüsekonserven
+Zitrusfrüchte,0.8680982781398212,0.8446099872635952,Obst & Obstkonserven
+Kartoffeln,0.8503611883560358,0.9386445649235694,Gemüse & Gemüsekonserven
+Äpfel,0.8399531025883966,0.9303118514308515,Obst & Obstkonserven
+"Zwiebeln, Knoblauch oder Ähnliches",0.8383463166108123,0.9495349514320542,Gemüse & Gemüsekonserven
+Möhren,0.8218938963041622,0.8923885985290061,Gemüse & Gemüsekonserven
+Tomaten,0.8126419160303231,0.54556429655308,Gemüse & Gemüsekonserven
+Weintrauben,0.7905321043861934,0.7070401729911034,Obst & Obstkonserven
+Kopfsalat oder Eisbergsalat,0.7480249665278311,0.554893484322208,Gemüse & Gemüsekonserven
+Gurken,0.6706074332378905,0.46510866122843453,Gemüse & Gemüsekonserven
+"Erdbeeren, Himbeeren, Stachelbeeren oder Ähnliches",0.657807824352177,0.9189945696568658,Obst & Obstkonserven
+Paprika,0.6554749610334358,0.6246496477820376,Gemüse & Gemüsekonserven
+"Kürbisse, Auberginen oder Mais",0.6424051181091399,0.43300239295281184,Gemüse & Gemüsekonserven
+Apfelsaft oder ähnlicher Fruchtsaft,0.5995133792336572,0.9954742205466401,Säfte & Softdrinks
+"Fischfilet, frisch oder gekühlt",0.5985840874203583,0.9944674890368336,Fisch & Meeresfrüchte
+Kasseler oder anderes Schweinefleisch,0.5874131602148942,0.9802994243492056,Fleisch & Wurst
+"Blumenkohl, Wirsing oder anderer Kohl",0.5752255053697194,0.8791678344234843,Gemüse & Gemüsekonserven
+Bananen,0.5507084371711488,0.9580706024078268,Obst & Obstkonserven
+"Erdnüsse, Studentenfutter oder Ähnliches",0.5124262266004421,0.9938718727755401,Obst & Obstkonserven
+"Feldsalat, Lauch, Sellerie oder Ähnliches",0.5062477065122335,0.924710944487081,Gemüse & Gemüsekonserven
+Pralinen,0.5001845686416629,0.9883895383693586,Zucker & Süßwaren
+Mineralwasser mit Kohlensäure,0.48299976845082515,0.9929288288105492,Säfte & Softdrinks
+Früchtetee oder Kräutertee,0.47197885231141845,0.9895715043815531,"Kaffee, Tee & Kakao"
+Apfelmus oder andere Kernobstkonserve,0.4660286098281401,0.9942769668722518,Obst & Obstkonserven
+Rindfleisch zum Kochen,0.4655003254155117,0.9906369087373647,Fleisch & Wurst
+Brotaufstrich auf Nougatbasis,0.45009998397584605,0.9920205370986772,Zucker & Süßwaren
+Multivitaminsaft,0.4431201869341087,0.9946383993034307,Säfte & Softdrinks
+Wurstaufschnitt,0.41961215421971076,0.9823303185175337,Fleisch & Wurst
+Sauerkrautkonserve,0.40839288065471013,0.9951708525565844,Gemüse & Gemüsekonserven
+Schokoladentafel,0.3988342462629426,0.9720476803576451,Zucker & Süßwaren
+"Kiwis, Melonen oder Ähnliches",0.3923089762526466,0.8961526450996001,Obst & Obstkonserven
+"Grieß, Roggenmehl oder Ähnliches",0.38664271411130835,0.989405913241636,Getreide & Backwaren
+Verzehrfertige Salate,0.3850804743654027,0.9911610673019605,Sonstige Nahrungsmittel
+Sauerkirschen oder andere Steinobstkonserve,0.38220555983672144,0.9904039197018215,Obst & Obstkonserven
+Trockengemüse,0.3739949823135652,0.9873591056111771,Gemüse & Gemüsekonserven
+"Kabeljau oder Lachs, frisch oder gekühlt",0.37381308424456927,0.9859868545412874,Fisch & Meeresfrüchte
+Schwarzer Tee oder grüner Tee,0.36082289823385005,0.9919975500038966,"Kaffee, Tee & Kakao"
+"Soßenpulver, Soßenbinder oder Ähnliches",0.3603471722310162,0.9917550490539453,Sonstige Nahrungsmittel
+Rindfleisch zum Schmoren oder Braten,0.35797763212141187,0.9919332729800101,Fleisch & Wurst
+Kakaopulver oder Ähnliches,0.34625105567538905,0.9912085683414261,"Kaffee, Tee & Kakao"
+Süßstoff,0.34188299104996733,0.9310000996304291,Zucker & Süßwaren
+Rinderhackfleisch,0.33768671280609286,0.9861904352113974,Fleisch & Wurst
+Leber oder andere Innereien,0.3357785594249756,0.9908818273567751,Fleisch & Wurst
+Fertigsuppe im Beutel oder Instantbrühe,0.3337171703206864,0.9840411155599771,Sonstige Nahrungsmittel
+Zubereitetes Hackfleisch,0.33364144481609914,0.9843914281736,Fleisch & Wurst
+"Tortenguss, Gelatine oder Ähnliches",0.3306255437873791,0.9859644263041768,Sonstige Nahrungsmittel
+Leberwurst oder Blutwurst,0.3217795072129972,0.9840122698469894,Fleisch & Wurst
+Haferflocken,0.31661178122961076,0.9853877371444569,Getreide & Backwaren
+Birnen,0.31569336859596553,0.8470986208273161,Obst & Obstkonserven
+Honig,0.3081312395826701,0.9852955432702399,Zucker & Süßwaren
+Kaffeepads oder Kaffeekapseln,0.3059186765156693,0.9891235405338062,"Kaffee, Tee & Kakao"
+"Süße Mandeln, Kokosraspeln oder Ähnliches",0.30461444621231104,0.9432353242799522,Obst & Obstkonserven
+Dosensuppe,0.299613124876943,0.990155360291265,Sonstige Nahrungsmittel
+Gurkenkonserve,0.29847046833518287,0.9936798460202791,Gemüse & Gemüsekonserven
+Frisches Geflügelfleisch,0.2921008645805754,0.9866844940767195,Fleisch & Wurst
+"Getreideprodukt, vegetarisch oder vegan",0.29019020493255865,0.9591182964175339,Getreide & Backwaren
+Kalbfleisch,0.2878518959431362,0.9916059688402162,Fleisch & Wurst
+"Eingelegte Matjes, Fischsalat oder Ähnliches",0.285971954387639,0.9951276233634315,Fisch & Meeresfrüchte
+"Roher Schinken, Schinkenspeck oder Bauchspeck",0.2846782414714968,0.9879433825442633,Fleisch & Wurst
+Orangensaft oder ähnlicher Fruchtsaft,0.2846131064038553,0.9972664802247737,Säfte & Softdrinks
+"Schweinehackfleisch, auch gemischt",0.28327374381024106,0.9812627090509196,Fleisch & Wurst
+"Grillsoße, Sojasoße, Salatdressing oder Ähnliches",0.2796610655852113,0.995508937131304,Sonstige Nahrungsmittel
+Energy-Drinks,0.2771903788710951,0.9339394033893783,Säfte & Softdrinks
+"Ananaskonserve, Erdbeerkonserve oder Ähnliches",0.27612983253247614,0.9905215925368671,Obst & Obstkonserven
+Kaninchenfleisch oder anderes Wildfleisch,0.27580293317668914,0.992037042827782,Fleisch & Wurst
+Riegel oder andere Erzeugnisse aus Schokolade,0.2739674144784796,0.9937804495690077,Zucker & Süßwaren
+Kartoffelkloßmehl oder Kartoffelpüree,0.2688661083916626,0.9890696242328398,Gemüse & Gemüsekonserven
+"Salami, Zervelatwurst oder andere Dauerwurst",0.26405289563549295,0.9851281023097956,Fleisch & Wurst
+Nudelfertiggericht,0.2625957788064781,0.9923021700400859,Getreide & Backwaren
+Koffeinfreie Limonade,0.26076663091431285,0.9905497527460629,Säfte & Softdrinks
+Eier,0.25812482492753996,0.99459075596668,Milch & Milchgetränke
+Speisesalz,0.25609246255140916,0.9870675097117413,Sonstige Nahrungsmittel
+Schweinebraten,0.24763353072772898,0.9857947810178186,Fleisch & Wurst
+Gyros oder andere fertige Fleischpfanne,0.24726438216378532,0.9871457694425417,Fleisch & Wurst
+"Fleischfertiggericht ohne Beilage, konserviert",0.24711693568501536,0.9954312337090144,Fleisch & Wurst
+Kekse,0.24706533620269766,0.995932010910605,Getreide & Backwaren
+"Meeresfrüchte, frisch oder gekühlt",0.24670750887802873,0.9883979174002734,Fisch & Meeresfrüchte
+Wurstkonserve,0.23951061826603504,0.9950377286322832,Fleisch & Wurst
+Weichkäse,0.23858260405198028,0.9936353849529548,Milch & Milchgetränke
+"Gemüseprodukt, vegetarisch oder vegan",0.22917243191700387,0.9839939437164587,Gemüse & Gemüsekonserven
+Fleischwurst,0.22572753234672216,0.9746969125514445,Fleisch & Wurst
+"Vitamintabletten, Magnesiumtabletten o.Ä.",0.22545335124355825,0.9886205579871973,Sonstige Nahrungsmittel
+Fertiggericht aus Fleisch oder Fisch,0.22473541464698044,0.9951316336285441,Sonstige Nahrungsmittel
+Margarine oder Pflanzenfett,0.2233895947025235,0.9912793036615609,Öle & Fette
+Mineralwasser ohne Kohlensäure,0.2226059003969325,0.9909261541190918,Säfte & Softdrinks
+Weißbrot,0.21387519155853774,0.9958260140016834,Getreide & Backwaren
+Trockenobst,0.21346506815391453,0.9812593741862587,Obst & Obstkonserven
+Butter,0.20976849771118777,0.9315706652520332,Öle & Fette
+Fischkonserve,0.20815493255056483,0.9939759235777533,Fisch & Meeresfrüchte
+Gekochter Schinken oder anderes gegartes Fleisch,0.20732101815044013,0.9767342215142777,Fleisch & Wurst
+Feinkostsalat auf Fleischbasis,0.20683022996169365,0.9938530987517977,Fleisch & Wurst
+"Kuchen oder Torte, tiefgefroren",0.19806485758216663,0.9941412861546145,Getreide & Backwaren
+"Kuchen, Torte oder Tortenboden, frisch",0.19048690209746055,0.9974413031077866,Getreide & Backwaren
+Colagetränk,0.18734214672672156,0.9883708627729374,Säfte & Softdrinks
+Räucherfisch,0.18428142477610132,0.993294967165439,Fisch & Meeresfrüchte
+Roggenbrot oder Mischbrot,0.18384715281425612,0.9974665815410634,Getreide & Backwaren
+Champignons oder andere Pilze,0.1802347108974902,0.9875610543534878,Gemüse & Gemüsekonserven
+Weizenmehl,0.1795630504778285,0.9784108723117183,Getreide & Backwaren
+Nudeln,0.176605310422007,0.9908313259454591,Getreide & Backwaren
+"Tiefgefrorenes, tafelfertig zubereitetes Fleisch",0.17572888971736678,0.9961692446649618,Fleisch & Wurst
+Bonbons,0.17518782635780383,0.9897104858048068,Zucker & Süßwaren
+Tiefgefrorener Spinat,0.17481272624503474,0.9963961153845139,Gemüse & Gemüsekonserven
+"Marmelade, Konfitüre oder Gelee",0.17203961561467096,0.9895254366318526,Zucker & Süßwaren
+Backmischung für Kuchen,0.1719276014600306,0.990988365218225,Getreide & Backwaren
+Stangenspargel oder andere Gemüsekonserve,0.1712402696249411,0.9911732962970824,Gemüse & Gemüsekonserven
+Tiefgefrorenes Fischfilet,0.17111035993613777,0.9909389052737478,Fisch & Meeresfrüchte
+Sportriegel,0.1699874448682973,0.9929397365315554,Sonstige Nahrungsmittel
+Rinderroulade oder Rinderlende,0.16680132378310586,0.9847117529552942,Fleisch & Wurst
+Kartoffelchips oder Kartoffelsticks,0.1665781915945136,0.9907925592961616,Gemüse & Gemüsekonserven
+"Backpulver, Vanillezucker oder Ähnliches",0.16234739881569804,0.9897015056786104,Sonstige Nahrungsmittel
+Puddingpulver,0.16183595090083058,0.9826783846994692,Sonstige Nahrungsmittel
+Schweinekotelett oder Schweineschnitzel,0.16086755712128198,0.9676107983615018,Fleisch & Wurst
+"Sandwich, Wrap oder Ähnliches",0.16066717750885784,0.9900622437843274,Sonstige Nahrungsmittel
+"Kaugummi, Gummibärchen oder Ähnliches",0.16033313837209595,0.9910911188179456,Zucker & Süßwaren
+Frischkäse,0.1584811591008093,0.9899183766103132,Milch & Milchgetränke
+Buttermilch oder anderes Milchgetränk,0.15256746519198394,0.9661159409991839,Milch & Milchgetränke
+Gemüsesaft,0.15191080722526829,0.9951119971438702,Säfte & Softdrinks
+"Pommes frites oder Ähnliches, tiefgefroren",0.1487325813320034,0.9907469549129698,Gemüse & Gemüsekonserven
+"Antipasti auf Gemüsebasis, ohne Oliven",0.14551996630825337,0.9908150253528012,Gemüse & Gemüsekonserven
+Körnerbrot oder Vollkornbrot,0.1439708482578358,0.9947454315611691,Getreide & Backwaren
+Quark,0.14181672449611793,0.9788983956675731,Milch & Milchgetränke
+"Muffins, Waffeln oder andere Dauerbackwaren",0.14100730168771125,0.9931674509668196,Getreide & Backwaren
+"Pizza, Quiches oder Ähnliches",0.13842736579430415,0.9912803054761319,Getreide & Backwaren
+Essig,0.12953899167955263,0.9974782781998037,Sonstige Nahrungsmittel
+Fertigdessert,0.1290067386118,0.9884722087019417,Milch & Milchgetränke
+Lammfleisch,0.12861386319762502,0.9893521938903667,Fleisch & Wurst
+Speiseeis,0.1282016209101987,0.987124265330183,Zucker & Süßwaren
+"Cornflakes, Müsli oder Ähnliches",0.12402986237218838,0.9881167709737412,Getreide & Backwaren
+Toastbrot,0.12402964723108112,0.9886952787012225,Getreide & Backwaren
+"Sojamilch, Reismilch o.Ä., ohne Kokosmilch",0.12296594477234124,0.9206386742408619,Milch & Milchgetränke
+Tiefgefrorene Meeresfrüchte,0.1211618790871466,0.9802027703535304,Fisch & Meeresfrüchte
+Senf,0.11948415995006323,0.9899790696617864,Sonstige Nahrungsmittel
+Erbsenkonserve,0.1191654605246244,0.9949170237493401,Gemüse & Gemüsekonserven
+Bratwurst,0.1121295579810454,0.9888498270668574,Fleisch & Wurst
+Tiefgefrorenes Geflügelfleisch,0.11009669286431523,0.9921624924329914,Fleisch & Wurst
+Knäckebrot oder Zwieback,0.10505771567015465,0.9942927743189833,Getreide & Backwaren
+"Säuglingsmilchnahrung, Pulverform",0.10497841844367017,0.9966066718634912,Sonstige Nahrungsmittel
+Schmalz oder anderes tierisches Speisefett,0.10488100015587265,0.9906721106508912,Öle & Fette
+Buttergemüse oder anderes tiefgefrorenes Gemüse,0.10440539689959094,0.996129345100661,Gemüse & Gemüsekonserven
+Reis,0.10254918151378645,0.9915973214558805,Getreide & Backwaren
+Kondensierte Milch,0.10103470740651055,0.9902925806079819,Milch & Milchgetränke
+Hartkäse,0.10017794125642265,0.983929824870488,Milch & Milchgetränke
+Olivenöl,0.09896563275048054,0.9924935168190082,Öle & Fette
+Schnittkäse,0.08982808846644352,0.9817378009927075,Milch & Milchgetränke
+"Sonnenblumenöl, Rapsöl oder Ähnliches",0.08514479675135711,0.9641576879383038,Öle & Fette
+Tomatenketchup oder Gewürzketchup,0.08388319747299999,0.9912203540401471,Sonstige Nahrungsmittel
+Fischstäbchen o.a. tiefgefrorene Fischzubereitung,0.08386202586134306,0.9810484378736196,Fisch & Meeresfrüchte
+Tiefgefrorenes Obst,0.08035834484001159,0.9714735102892476,Obst & Obstkonserven
+Bohnenkaffee,0.07921094249416838,0.9752444537087314,"Kaffee, Tee & Kakao"
+Reiszubereitung,0.07633242817597963,0.9947228021713409,Getreide & Backwaren
+Fertignahrung für Säuglinge oder Kleinkinder,0.0728319065882127,0.9946384467356378,Sonstige Nahrungsmittel
+Instantkaffee oder Ähnliches,0.06804676918360364,0.98720557825842,"Kaffee, Tee & Kakao"
+Gewürze,0.0671744242841873,0.9901224001617106,Sonstige Nahrungsmittel
+Tiefgefrorene Küchenkräuter,0.058129827300436365,0.9888085463776994,Sonstige Nahrungsmittel
+Teilentrahmte Milch,0.052888883577170254,0.9810143019199931,Milch & Milchgetränke
+Joghurt,0.05243948744229854,0.9861776171908984,Milch & Milchgetränke
+Brötchen zum Fertigbacken,0.05238642148748507,0.9955621918801885,Getreide & Backwaren
+Frisches Brötchen,0.05218255403609673,0.99632850596441,Getreide & Backwaren
+Zucker,0.04705991243015972,0.9538828933321719,Zucker & Süßwaren
+Vollmilch,0.04427011757735955,0.975270749713917,Milch & Milchgetränke
+Salzgebäck,0.04143768261035874,0.9834455323531688,Getreide & Backwaren
+Sahne,0.040572150466881785,0.9786061094206338,Milch & Milchgetränke
+Pilzkonserve,0.03618486006856558,0.9931351289807331,Gemüse & Gemüsekonserven
+Mayonnaise,0.015358163107700551,0.9936039122266963,Sonstige Nahrungsmittel
+Fischmarinade,0,0.9949772843669268,Fisch & Meeresfrüchte
+Hefegebäck,0,0.9973991616590222,Getreide & Backwaren
+"Scholle, Forelle oder Karpfen, frisch oder gekühlt",0,0.9966505632096728,Fisch & Meeresfrüchte
